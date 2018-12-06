@@ -6,8 +6,11 @@
 <body>
         <script type="text/javascript">
             $( document ).ready(function(){
+                if (window.location.protocol == "http") {
+                    window.location.protocol = "https";
+                }
+
                 var userLang = navigator.language || navigator.userLanguage;
-                window.location.protocol = "https"
                 if (userLang == "es") {                    
                     window.location.href = "index_es.html"
                 }
