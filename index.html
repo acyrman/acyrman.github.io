@@ -6,16 +6,12 @@
 <body>
         <script type="text/javascript">
             $( document ).ready(function(){
-                if (window.location.protocol == "http") {
-                    window.location.protocol = "https";
-                }
-
                 var userLang = navigator.language || navigator.userLanguage;
                 if (userLang == "es") {                    
-                    window.location.href = "index_es.html"
+                    window.location.href = "https://www.icyrman.com/index_es.html"
                 }
                 else {
-                    window.location.href = "index_en.html"
+                    window.location.href = "https://www.icyrman.com/index_en.html"
                 }
             });
         </script>    
