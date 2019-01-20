@@ -10,16 +10,16 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     </head>
 <body>
-        <script type="text/javascript">
-            $( document ).ready(function(){
+	<script type="text/javascript">
+    	    $( document ).ready(function(){
                 var userLang = navigator.language || navigator.userLanguage;
-                if (userLang == "es") {                    
-                    window.location.href = "https://www.icyrman.com/index_es.html"
+                if (userLang == "en") {
+            	    window.location.href = "https://www.icyrman.com/index_en.html"
+       	        }
+      	        else {
+            	    window.location.href = "https://www.icyrman.com/index_es.html"
                 }
-                else {
-                    window.location.href = "https://www.icyrman.com/index_en.html"
-                }
-            });
+	    });
         </script>    
 <h1>iCyrman</h1>
 </body>
