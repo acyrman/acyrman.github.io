@@ -1,0 +1,47 @@
+{
+    "banks": [
+        {
+            "isActive": true,
+            "buyCode": "317",
+            "sellCode": "318",
+            "fullName": "Banco Central de Costa Rica",
+            "customName": "Central"
+        },
+        {
+            "isActive": true,
+            "buyCode": "3149",
+            "sellCode": "3208",
+            "fullName": "Banco Nacional de Costa Rica",
+            "customName": "Nacional"
+        },
+        {
+            "isActive": true,
+            "buyCode": "3148",
+            "sellCode": "3207",
+            "fullName": "Banco de Costa Rica",
+            "customName": "BCR"
+        },
+        {
+            "isActive": true,
+            "buyCode": "3181",
+            "sellCode": "3215",
+            "fullName": "Banco BAC San José S.A.",
+            "customName": "BAC"
+        },
+        {
+            "isActive": true,
+            "buyCode": "3187",
+            "sellCode": "3221",
+            "fullName": "Davibank (Costa Rica) S.A.",
+            "customName": "Davibank"
+        },
+        {
+            "isActive": false,
+            "buyCode": "3341",
+            "sellCode": "3342",
+            "fullName": "Financiera Desyfin S.A.",
+            "customName": "Desyfin"
+        }
+    ],
+    "version": 0
+}
