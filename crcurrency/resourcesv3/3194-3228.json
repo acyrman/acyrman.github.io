@@ -1,0 +1,11 @@
+{
+  "purchaseCode": "3194",
+  "sellCode": "3228",
+  "history": [
+    {
+      "datetime": "2026-07-21T00:00:00-06:00",
+      "purchase": 443,
+      "sell": 458
+    }
+  ]
+}
