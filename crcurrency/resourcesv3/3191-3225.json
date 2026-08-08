@@ -3,6 +3,16 @@
   "sellCode": "3225",
   "history": [
     {
+      "datetime": "2026-07-25T00:00:00-06:00",
+      "purchase": 494,
+      "sell": 511
+    },
+    {
+      "datetime": "2026-07-26T00:00:00-06:00",
+      "purchase": 494,
+      "sell": 511
+    },
+    {
       "datetime": "2026-07-27T00:00:00-06:00",
       "purchase": 494,
       "sell": 511
