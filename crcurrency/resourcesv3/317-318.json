@@ -3,6 +3,11 @@
   "sellCode": "318",
   "history": [
     {
+      "datetime": "2026-08-26T00:00:00-06:00",
+      "purchase": 450.21,
+      "sell": 453.5
+    },
+    {
       "datetime": "2026-08-25T00:00:00-06:00",
       "purchase": 448.7,
       "sell": 453.89
