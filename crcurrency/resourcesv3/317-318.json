@@ -3,6 +3,11 @@
   "sellCode": "318",
   "history": [
     {
+      "datetime": "2026-11-25T00:00:00-06:00",
+      "purchase": 441.1,
+      "sell": 446.3
+    },
+    {
       "datetime": "2026-11-24T00:00:00-06:00",
       "purchase": 440.9,
       "sell": 445.2
